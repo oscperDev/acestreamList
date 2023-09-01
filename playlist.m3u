@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,DAZN F1 (1)
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1,DAZN F1 (2)
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1,DAZN La Liga (1)
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1,DAZN La Liga (2)
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1,DAZN La Liga (3)
+acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256
+#EXTINF:-1,Movistar La Liga TV (1)
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1,Movistar La Liga TV (2)
+acestream://731428b18eb656121990261c1b072b13f7caef30
+#EXTINF:-1,Movistar La Liga TV (3)
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1,DAZN 1
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1,DAZN 2
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1,DAZN 4
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1,Movistar Liga de Campeones (1)
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1,Movistar Liga de Campeones (2)
+acestream://16acb1d7c7760a7929d79b99f804bdf7a5d7e26b
+#EXTINF:-1,DAZN F1 (3)
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1,Movistar Liga de Campeones (3)
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1,Sky Sports F1 (DE)
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 group-title="sport",Sky Sports F1 (UK)
+acestream://468964086ebbd8b067c1a3ec4ebfc4e7a5bc9cc7
+#EXTINF:-1,F1 TV (1 - UK)
+acestream://77cb36936f3341264f010d39a1758f4672e308b0
+#EXTINF:-1,F1 TV (2 - UK)
+acestream://22c184381158087c2b522e1aacbc1bca7c67dc74
